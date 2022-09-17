@@ -1,0 +1,32 @@
+
+
+main{
+    width: 90%;
+    margin: 3rem auto 0px;
+}
+
+.toolbar{
+    height: 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-employee{
+    width: 50%;
+    border-radius: .5rem;
+    box-shadow: 0px 0px 5px black;
+}
+
+.search-employee ::placeholder { 
+    color: rgb(34, 106, 107);
+    
+  }
+
+app-employee{
+display: block;
+width: 75%;
+margin: 0px auto;
+border-radius: 1rem;
+box-shadow: 0px 0px 5px rgba(34, 34, 34, 0.5);
+}  

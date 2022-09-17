@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "firstname": "Mammootty",
+      "lastname": "",
+      "birthdate": "1968-02-13",
+      "gender": "m",
+      "education": "phD",
+      "designation": "Actor",
+      "salary": 50000000,
+      "profile": "profile2.jpg",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

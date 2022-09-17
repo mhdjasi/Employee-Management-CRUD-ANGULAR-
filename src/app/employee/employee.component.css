@@ -1,0 +1,14 @@
+img{
+    width: 100%;
+    border-radius: 1rem;
+}
+table{
+    width: 90%;
+}
+
+.name{
+    font-size: 1.7rem;
+    font-weight: 600;
+    letter-spacing: 3px;
+    
+}
